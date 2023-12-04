@@ -39,6 +39,12 @@ Crie um banco de dados chamado playlistlivros no phpMyAdmin.
 Atualize as configurações de conexão no arquivo dbcon.php.
 Abra o projeto em um navegador, acessando http://localhost/seucaminhoparaoarquivo
 
+![WhatsApp Image 2023-12-02 at 06 31 37](https://github.com/J-aqueline/PlaylistDeLivros/assets/57812389/e8f69bc6-9f50-4fa5-8feb-0858b4707982)
+
+![WhatsApp Image 2023-12-02 at 06 32 02](https://github.com/J-aqueline/PlaylistDeLivros/assets/57812389/8298fed5-3afe-45b8-8434-bbd69b0dbf11)
+
+
+
 ### Contribuições são muito bem-vindas! Sinta-se à vontade para enviar feedbacks em casos de problemas ou melhorias.
 
 ## Agradeço essa oportunidade!
