@@ -39,7 +39,7 @@ Crie um banco de dados chamado playlistlivros no phpMyAdmin.
 Atualize as configurações de conexão no arquivo dbcon.php.
 Abra o projeto em um navegador, acessando http://localhost/seucaminhoparaoarquivo
 
-## Contribuições são muito bem-vindas! Sinta-se à vontade para enviar feedbacks em casos de problemas ou melhorias.
+### Contribuições são muito bem-vindas! Sinta-se à vontade para enviar feedbacks em casos de problemas ou melhorias.
 
 ## Agradeço essa oportunidade!
 
